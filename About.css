@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ================= Principal Section ================= */
+
+/* Header */
+header {
+    background: #003366;
+    padding: 15px 0;
+    color: white;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+.principal {
+    padding: 64px;
+}
+
+.principal-content {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.principal-content img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.principal-text h2 {
+    margin-bottom: 15px;
+}
+
+/* ================= Departments ================= */
+
+.departments {
+    padding: 60px 0;
+    background: #f4f4f4;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1 1 30%;
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border: none;
+    background: #0077ff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Facilities */
+
+ .facilities {
+    padding: 64px;
+} 
+
+.facility-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.facility-card {
+    flex: 1 1 30%;
+    background: #0077ff;
+    color: white;
+    padding: 30px; 
+    text-align: center; 
+    border-radius: 8px;
+}
+
+/* Teacher Section */
+
+.teachers {
+    padding: 60px 0;
+    background: #f4f4f4;
+}
+
+.teacher-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.teacher-card {
+    flex: 1 1 22%;
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.teacher-card img {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
