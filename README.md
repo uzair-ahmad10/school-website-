@@ -33,7 +33,8 @@ project2/
 ## 💻 How to Run
 
 1. Clone or download this project's files onto your local machine.
-2. Navigate to the `project2` folder.
-3. Or Simply [click here](https://school-website-iota-seven.vercel.app/)
-4. Simply double-click `index.html` to open it in your default web browser. 
-*(Alternatively, you can use an extension like VS Code "Live Server" for auto-reloading during development).*
+2. Navigate to the `project2` folder. 
+3. Simply double-click `index.html` to open it in your default web browser. 
+  *(Alternatively, you can use an extension like VS Code "Live Server" for auto-reloading during development).*
+4. Or Simply [click here](https://school-website-iota-seven.vercel.app/)
+
