@@ -1,6 +1,6 @@
 # Govt. MC High School Website
 
-This is a frontend school website project created completely from scratch using **HTML** and **CSS**. It details the web presence of "Govt. MC High School" (Bright Future School), providing a clean and visually appealing interface to deliver information to students and parents.
+This is a frontend school website project created completely from scratch using **HTML** and **CSS**. It details the web presence of "Govt. MC High School", providing a clean and visually appealing interface to deliver information to students and parents.
 
 ## 🚀 Features
 
@@ -34,5 +34,6 @@ project2/
 
 1. Clone or download this project's files onto your local machine.
 2. Navigate to the `project2` folder.
-3. Simply double-click `index.html` to open it in your default web browser. 
+3. Or Simply [click here](https://school-website-iota-seven.vercel.app/)
+4. Simply double-click `index.html` to open it in your default web browser. 
 *(Alternatively, you can use an extension like VS Code "Live Server" for auto-reloading during development).*
